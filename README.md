@@ -7,6 +7,8 @@
 
 ### 2. 프로젝트 clone 하기
 - IntellJ 왼쪽 하단 터미널창 열고 git Bash 열기
+
+
 ![](images/git1.png)
 - 터미널 창에 아래 코드 입력 (Capstone_back 프로젝트 clone)
 #### ```git clone https://github.com/Hichanmin/Capstone-back.git```
@@ -31,6 +33,8 @@
 #### ```git branch 이름_dev```
 #### ```git checkout Chanmin_dev```
 - IntellJ 왼쪽 상단 보고 checkout 됐는지 확인
+
+
   ![](images/git2.png)
 
 [잘못 만들었을 때 삭제하고 싶으면 다시 main branch 로 checkout 후에 아래 코드 입력]
